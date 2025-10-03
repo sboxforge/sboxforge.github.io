@@ -1,0 +1,37 @@
+{
+    "practice": [
+        {
+            "id": "T001",
+            "audio": "./audio/T001.wav",
+            "sentence": "おはよう",
+            "phonemes": ["お", "は", "よ", "う"]
+        },
+        {
+            "id": "T002",
+            "audio": "./audio/T002.wav",
+            "sentence": "こんにちは",
+            "phonemes": ["こ", "ん", "に", "ち", "は"]
+        }
+    ],
+    "main": [
+        {
+            "id": "M001",
+            "audio": "./audio/T003.wav",
+            "sentence": "こんばんは",
+            "phonemes": ["こ", "ん", "ば", "ん", "は"]
+        },
+        {
+            "id": "M002",
+            "audio": "./audio/T001.wav",
+            "sentence": "ありがとう",
+            "phonemes": ["あ", "り", "が", "と", "う"]
+        },
+        {
+            "id": "M003",
+            "audio": "./audio/T002.wav",
+            "sentence": "さようなら",
+            "phonemes": ["さ", "よ", "う", "な", "ら"]
+        }
+    ]
+}
+
